@@ -1,0 +1,308 @@
+{
+  "version": "3.0",
+  "destination": "Nerja, Costa del Sol",
+  "updated": "2026-11-01",
+  "intro": "Discover Nerja on the eastern Costa del Sol: the Balcón de Europa, Burriana Beach, the famous caves and the whitewashed village of Frigiliana nearby. Plan your holiday and keep your memorable visits and photos on your device.",
+  "areas": [
+    {
+      "name": "Nerja Old Town",
+      "description": "Walk the historic centre, tapas streets and small squares around the Balcón de Europa."
+    },
+    {
+      "name": "Balcón de Europa",
+      "description": "Central viewpoint overlooking the Mediterranean and nearby coves."
+    },
+    {
+      "name": "Burriana",
+      "description": "Popular beach neighbourhood with restaurants and watersports."
+    },
+    {
+      "name": "Maro",
+      "description": "Small village east of Nerja, close to coves and the Nerja Caves."
+    },
+    {
+      "name": "Punta Lara",
+      "description": "Residential area west of the centre, with hillside views."
+    },
+    {
+      "name": "Frigiliana",
+      "description": "Nearby whitewashed hill village with steep cobbled lanes and scenic viewpoints."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Balcón de Europa",
+      "description": "Seafront viewpoint and promenade in the heart of Nerja."
+    },
+    {
+      "name": "Nerja Caves (Cueva de Nerja)",
+      "description": "Large cave system near Maro; check official opening hours and book ahead if needed."
+    },
+    {
+      "name": "Nerja Museum",
+      "description": "Local history museum in the town centre."
+    },
+    {
+      "name": "El Salvador Church",
+      "description": "Church near the Balcón de Europa."
+    },
+    {
+      "name": "Frigiliana Old Town",
+      "description": "Picturesque nearby hill village with narrow streets and viewpoints."
+    },
+    {
+      "name": "Acueducto del Águila",
+      "description": "Historic aqueduct near Maro; view safely from designated areas."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Málaga Airport",
+      "description": "Nearest major airport; plan onward travel by bus, taxi or transfer."
+    },
+    {
+      "name": "Intercity buses",
+      "description": "ALSA operates routes in the region; confirm stops and timetables."
+    },
+    {
+      "name": "Local buses",
+      "description": "Check current services around Nerja and nearby villages."
+    },
+    {
+      "name": "Taxis",
+      "description": "Use licensed taxis and confirm fares for longer trips."
+    },
+    {
+      "name": "Walking",
+      "description": "The town centre is walkable, but many routes include hills and steps."
+    },
+    {
+      "name": "Driving",
+      "description": "Parking near beaches and central streets can be limited in peak season."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Dial 112 for emergencies in Spain."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check bank and card charges."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check UK government advice and passport entry requirements before travelling."
+    },
+    {
+      "name": "Language",
+      "description": "Spanish is the official language; English is spoken in many tourist businesses."
+    },
+    {
+      "name": "Beach safety",
+      "description": "Follow flags, lifeguard instructions and local swimming restrictions."
+    },
+    {
+      "name": "Time zone",
+      "description": "Mainland Spain is normally one hour ahead of the UK."
+    },
+    {
+      "name": "Local terrain",
+      "description": "Nerja and Frigiliana have hills, steps and cobbled streets; plan accessibility."
+    }
+  ],
+  "links": [
+    {
+      "name": "Spain travel advice (UK)",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Nerja tourism (official)",
+      "url": "https://www.turismonerja.es/"
+    },
+    {
+      "name": "Nerja Caves (official)",
+      "url": "https://www.cuevadenerja.es/"
+    },
+    {
+      "name": "ALSA buses",
+      "url": "https://www.alsa.com/en/web/bus/home"
+    },
+    {
+      "name": "Málaga Airport (Aena)",
+      "url": "https://www.aena.es/en/malaga-costa-del-sol.html"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Nerja local advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Burriana Beach",
+      "description": "Large sandy beach with facilities, chiringuitos and watersports."
+    },
+    {
+      "name": "Calahonda Beach",
+      "description": "Small cove reached by steps near the Balcón de Europa."
+    },
+    {
+      "name": "El Salón Beach",
+      "description": "Compact central beach below the old town."
+    },
+    {
+      "name": "Carabeillo Beach",
+      "description": "Smaller cove with steps and limited facilities."
+    },
+    {
+      "name": "Playa de Maro",
+      "description": "Scenic cove near Maro; access and parking can be restricted."
+    },
+    {
+      "name": "Torrecilla Beach",
+      "description": "Accessible town beach west of the centre with a promenade."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Nerja weekly market",
+      "description": "Browse local market stalls; verify current location and operating day."
+    },
+    {
+      "name": "Nerja shops",
+      "description": "Explore small boutiques, bakeries and souvenir shops in the old town."
+    },
+    {
+      "name": "Frigiliana artisan shops",
+      "description": "Browse crafts and local products in the village."
+    },
+    {
+      "name": "Local supermarkets",
+      "description": "Pick up essentials around town; check Sunday opening hours."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Plaza Tutti Frutti",
+      "description": "Area known for bars and evening venues; check current openings."
+    },
+    {
+      "name": "Old Town tapas bars",
+      "description": "Enjoy a relaxed evening in the streets near the centre."
+    },
+    {
+      "name": "Balcón de Europa promenade",
+      "description": "Evening stroll with sea views and nearby cafés."
+    },
+    {
+      "name": "Burriana beachfront",
+      "description": "Beachside dining and bars, especially in the main holiday season."
+    }
+  ],
+  "family": [
+    {
+      "name": "Nerja Caves",
+      "description": "Family cave visit; check accessibility and any age guidance."
+    },
+    {
+      "name": "Burriana Beach",
+      "description": "Beach day with facilities and food options."
+    },
+    {
+      "name": "Boat or kayak excursions",
+      "description": "Look for licensed operators and check sea conditions."
+    },
+    {
+      "name": "Frigiliana day out",
+      "description": "Explore village viewpoints; note steep streets and steps."
+    },
+    {
+      "name": "Coastal walks",
+      "description": "Choose suitable stretches and take water and sun protection."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Old Town tapas",
+      "description": "Find traditional tapas bars and restaurants around central Nerja."
+    },
+    {
+      "name": "Burriana chiringuitos",
+      "description": "Beachfront restaurants, including local fish and rice dishes."
+    },
+    {
+      "name": "Balcón de Europa area",
+      "description": "Cafés and restaurants close to the seafront viewpoint."
+    },
+    {
+      "name": "Frigiliana restaurants",
+      "description": "Village cafés and Andalusian food with hillside views."
+    },
+    {
+      "name": "Maro village",
+      "description": "Smaller local eateries; check opening days before travelling."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Frigiliana",
+      "description": "Whitewashed hill village a short journey inland from Nerja."
+    },
+    {
+      "name": "Maro and the Nerja Caves",
+      "description": "Combine a cave visit with the village or nearby coast."
+    },
+    {
+      "name": "Málaga",
+      "description": "Museums, historic sites and harbour; check intercity transport."
+    },
+    {
+      "name": "Almuñécar",
+      "description": "Coastal town to the east with beaches and an old quarter."
+    },
+    {
+      "name": "Cómpeta",
+      "description": "Mountain village in the Axarquía region; winding roads."
+    },
+    {
+      "name": "Granada",
+      "description": "Longer day trip for historic sights; plan travel and tickets carefully."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Balcón de Europa",
+      "description": "Balcón de Europa, Nerja, Spain"
+    },
+    {
+      "name": "Burriana Beach",
+      "description": "Playa Burriana, Nerja, Spain"
+    },
+    {
+      "name": "Nerja Caves",
+      "description": "Cueva de Nerja, Maro, Spain"
+    },
+    {
+      "name": "Frigiliana",
+      "description": "Frigiliana, Málaga, Spain"
+    },
+    {
+      "name": "Torrecilla Beach",
+      "description": "Playa Torrecilla, Nerja, Spain"
+    },
+    {
+      "name": "Calahonda Beach",
+      "description": "Playa Calahonda, Nerja, Spain"
+    },
+    {
+      "name": "El Salvador Church",
+      "description": "Iglesia El Salvador, Nerja, Spain"
+    },
+    {
+      "name": "Acueducto del Águila",
+      "description": "Acueducto del Águila, Nerja, Spain"
+    }
+  ]
+}
