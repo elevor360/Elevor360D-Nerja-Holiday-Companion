@@ -1,0 +1,1 @@
+Marbella V2: compatible with Universal Advertising Manager V1. Export adverts.json and upload it to advertising/adverts.json. Upload image files to advertising/images/. Keep original guide.json and guide-manager.html for destination guide adverts.
